@@ -1,3 +1,6 @@
+import numpy as np
+import matplotlib.pyplot as plt
+
 x = [2,1,4,3]
 h = [1,2,3,4]
 l = len(x) + len(h) - 1
